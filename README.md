@@ -1,4 +1,4 @@
-<h1 align="center">Hi, welcome to my GitHub Page! 👋</h1>
+<h2 align="center">Hi, welcome to my GitHub Page! 👋</h2>
 
 <p align="center">I'm Tizian.<br></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt"></p>
