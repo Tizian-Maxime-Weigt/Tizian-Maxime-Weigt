@@ -34,8 +34,8 @@
 [![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
-- 🌱 I’m currently develop an trusted network cybersecurity solution behind AS215828 named TMW Shield.
-- 💬 Ask me about Development and Network Management or Cybersecurity (EN/DE)
+- 🌱 I’m currently develop an trusted network Cybersecurity solution behind AS215828 named TMW Shield.
+- 💬 Ask me about development, network management or just basic things like Cybersecurity (EN/DE)
 - 📫 How to reach me: support@t-w.dev | tizian.weigt <- Discord
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
 
