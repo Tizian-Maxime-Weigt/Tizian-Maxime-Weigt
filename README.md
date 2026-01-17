@@ -5,7 +5,7 @@
 <p align="center">
         - I'm an German Network freak -
     <br>
-        - 📍 Located in Frankfurt A. M. -
+        - 📍 Frankfurt am Main -
 <br> 
 </p>
 
