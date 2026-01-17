@@ -1,9 +1,9 @@
-<h2 align="center">Hi, welcome to my GitHub Page! 👋</h2>
+<h2 align="center">Hi, welcome to my Personal GitHub Page! 👋</h2>
 
 <p align="center">I'm Tizian.<br></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt"></p>
 <p align="center">
-        - I'm a German Developer and System / Network Manager (ISP / AS215828) -
+        - I'm an German Network freak -
     <br>
         - 📍 Located in Frankfurt A. M. -
 <br> 
@@ -25,7 +25,6 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Tizian-Maxime-Weigt)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![BGP](https://img.shields.io/badge/bgp-black?style=for-the-badge&logo=bgp)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![OSPF](https://img.shields.io/badge/ospf-black?style=for-the-badge&logo=ospf)](https://hub.docker.com/u/TizianMaximeWeigt)
 
@@ -33,13 +32,11 @@
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
 [![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
-[![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
-- 🌱 I’m currently build my own Global Network infrastrukture (T3 -> T2 :D) AS215828
-- 💬 Ask me about Development and Network Management or Systemadministration (ENG/DE)
+- 🌱 I’m currently develop an trusted network cybersecurity solution behind AS215828 named TMW Shield.
+- 💬 Ask me about Development and Network Management or Cybersecurity (EN/DE)
 - 📫 How to reach me: support@t-w.dev | tizian.weigt <- Discord
-- ⚡ Fun fact: i'm a Developer an System- and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
 
 <br>
